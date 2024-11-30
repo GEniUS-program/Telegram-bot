@@ -1,5 +1,5 @@
 **My first ever GitHub repo.**
-This programm is a telegram bot I made for a hackathon.
+This program is a telegram bot I made for a hackathon.
 
 **Functionality**
   1. Learning business basics. Ask the bot anything about business and it'll give you an answer;
